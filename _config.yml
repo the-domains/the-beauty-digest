@@ -1,0 +1,28 @@
+name: The Beauty Digest
+favicon: null
+layout_spectrum: 0.29229595116339624
+typography_spectrum: 0.09271622798405588
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6850322678219527
+  lightness: 0.08172108232975006
+  saturation: 0.4344757746439427
+  rhythmicContrast: 0.3993991941679269
+purpose: []
